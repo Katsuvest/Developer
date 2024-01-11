@@ -4,9 +4,9 @@
 
 |                                           Career Tracks                                            | Completed  |
 | :------------------------------------------------------------------------------------------------- | :--------: |
-| [Python Developer](https://github.com/Katsuvest/Devloper/tree/master/Python_Developer.pdf)         | 28-12-2023 |
-| [R Developer](https://github.com/Katsuvest/Devloper/tree/master/R_Developer.pdf)                   | 31-12-2023 |
-| [SQL Server Developer](https://github.com/Katsuvest/Devloper/tree/master/SQL_Server_Developer.pdf) | 17-12-2023 |
+| [Python Developer](https://github.com/Katsuvest/Devloper/Python_Developer.pdf)         | 28-12-2023 |
+| [R Developer](https://github.com/Katsuvest/Devloper/R_Developer.pdf)                   | 31-12-2023 |
+| [SQL Server Developer](https://github.com/Katsuvest/Devloper/SQL_Server_Developer.pdf) | 17-12-2023 |
 
 # Courses
 
