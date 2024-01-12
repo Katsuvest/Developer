@@ -2,6 +2,26 @@
  Qualifications as a Developer
 
 
+In my journey as a Developer specializing in **[Python](https://github.com/Katsuvest/Python)**, **[R_Programming](https://github.com/Katsuvest/R_Programming)**, and **[SQL](https://github.com/Katsuvest/SQL)** Server, I've cultivated a versatile skill set through targeted courses and hands-on projects. Here's a concise overview:
+
+**SQL Server Developer:**
+* Advanced trigger development.
+* Proficient in writing functions for data manipulation.
+* Optimizing query performance and managing transactions.
+
+**R Developer:**
+* Expert in data manipulation using dplyr.
+* Robust and defensive R programming.
+* Building and optimizing R packages (31-Dec-2023).
+
+**Python Developer:**
+* Skilled in data manipulation with pandas.
+* Mastered Python data structures and algorithms.
+* Real-world project experience in exploring NYC public school test scores.
+* Proficient in Git version control and software engineering principles.
+  
+These experiences have equipped me with a versatile skill set, making me adept at tackling complex challenges in **[Python](https://github.com/Katsuvest/Python)**, **[R_Programming](https://github.com/Katsuvest/R_Programming)**, and **[SQL](https://github.com/Katsuvest/SQL)** `Server` development. I am well-prepared to contribute effectively to diverse projects and initiatives.  Below is the listing of completed tracks and courses
+
 |                                           Career Tracks                                            | Completed  |
 | :------------------------------------------------------------------------------------------------- | :--------: |
 | [Python Developer](https://github.com/Katsuvest/Developer/blob/master/Python_Developer.pdf)         | 28-12-2023 |
