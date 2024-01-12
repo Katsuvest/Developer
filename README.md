@@ -1,5 +1,4 @@
-# Developer
- Qualifications as a Developer
+# Qualifications as a Developer
 
 In my journey as a Developer specializing in **[Python](https://github.com/Katsuvest/Python)**, **[R_Programming](https://github.com/Katsuvest/R_Programming)**, and **[SQL](https://github.com/Katsuvest/SQL)** Server, I've cultivated a versatile skill set through targeted courses and hands-on projects. Here's a concise overview:
 
