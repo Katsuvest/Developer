@@ -21,8 +21,6 @@ In my journey as a Developer specializing in **[Python](https://github.com/Katsu
   
 These experiences have equipped me with a versatile skill set, making me adept at tackling complex challenges in **[Python](https://github.com/Katsuvest/Python)**, **[R_Programming](https://github.com/Katsuvest/R_Programming)**, and **[SQL](https://github.com/Katsuvest/SQL)** `Server` development. I am well-prepared to contribute effectively to diverse projects and initiatives.  Below is the listing of completed tracks and courses
 
-# Courses
-
 |                                                                               Course                                                                                |  Completed   |                                      Topic                                       |                          Technology                          |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------: | :------------------------------------------------------------------------------: | :----------------------------------------------------------: |
 | [Building and Optimizing Triggers in SQL Server](https://github.com/Katsuvest/Programming/tree/master/Building_and_Optimizing_Triggers_in_SQL_Server)               |  16-Dec-2023 |       [Programming](https://github.com/Katsuvest/Programming/tree/master/)       |            [SQL](https://github.com/Katsuvest/SQL)           |
