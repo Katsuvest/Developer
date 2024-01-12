@@ -1,32 +1,25 @@
 # Developer
  Qualifications as a Developer
 
-
 In my journey as a Developer specializing in **[Python](https://github.com/Katsuvest/Python)**, **[R_Programming](https://github.com/Katsuvest/R_Programming)**, and **[SQL](https://github.com/Katsuvest/SQL)** Server, I've cultivated a versatile skill set through targeted courses and hands-on projects. Here's a concise overview:
 
-**SQL Server Developer:**
+**[SQL Server Developer](https://github.com/Katsuvest/Developer/blob/master/SQL_Server_Developer.pdf): (17-12-2023)**
 * Advanced trigger development.
 * Proficient in writing functions for data manipulation.
 * Optimizing query performance and managing transactions.
 
-**R Developer:**
-* Expert in data manipulation using dplyr.
-* Robust and defensive R programming.
-* Building and optimizing R packages (31-Dec-2023).
-
-**Python Developer:**
+**[Python Developer](https://github.com/Katsuvest/Developer/blob/master/Python_Developer.pdf): (28-12-2023)**
 * Skilled in data manipulation with pandas.
 * Mastered Python data structures and algorithms.
 * Real-world project experience in exploring NYC public school test scores.
 * Proficient in Git version control and software engineering principles.
+
+**[R Developer](https://github.com/Katsuvest/Developer/blob/master/R_Developer.pdf): (31-12-2023)**
+* Expert in data manipulation using dplyr.
+* Robust and defensive R programming.
+* Building and optimizing R packages (31-Dec-2023).
   
 These experiences have equipped me with a versatile skill set, making me adept at tackling complex challenges in **[Python](https://github.com/Katsuvest/Python)**, **[R_Programming](https://github.com/Katsuvest/R_Programming)**, and **[SQL](https://github.com/Katsuvest/SQL)** `Server` development. I am well-prepared to contribute effectively to diverse projects and initiatives.  Below is the listing of completed tracks and courses
-
-|                                           Career Tracks                                            | Completed  |
-| :------------------------------------------------------------------------------------------------- | :--------: |
-| [Python Developer](https://github.com/Katsuvest/Developer/blob/master/Python_Developer.pdf)         | 28-12-2023 |
-| [R Developer](https://github.com/Katsuvest/Developer/blob/master/R_Developer.pdf)                   | 31-12-2023 |
-| [SQL Server Developer](https://github.com/Katsuvest/Developer/blob/master/SQL_Server_Developer.pdf) | 17-12-2023 |
 
 # Courses
 
@@ -57,7 +50,7 @@ These experiences have equipped me with a versatile skill set, making me adept a
 | [Investigating Netflix Movies](https://github.com/Katsuvest/Projects/tree/master/Investigating_Netflix_Movies)                                                      |  28-Dec-2023 |          [Projects](https://github.com/Katsuvest/Projects/tree/master/)          |         [Python](https://github.com/Katsuvest/Python)        |
 | [Object-Orientated Programming with S3 and R6 in R](https://github.com/Katsuvest/Programming/tree/master/Object-Orientated_Programming_with_S3_and_R6_in_R)         |  26-Jan-2023 |       [Programming](https://github.com/Katsuvest/Programming/tree/master/)       |  [R_Programming](https://github.com/Katsuvest/R_Programming) |
 | [Object-Oriented Programming in Python](https://github.com/Katsuvest/Programming/tree/master/Object-Oriented_Programming_in_Python)                                 |  13-Jul-2023 |       [Programming](https://github.com/Katsuvest/Programming/tree/master/)       |         [Python](https://github.com/Katsuvest/Python)        |
-| [Parallel Programming in R](https://github.com/Katsuvest/Programming/tree/master/Parallel_Programming_in_R)                                                         |              |                                                                                  |  [R_Programming](https://github.com/Katsuvest/R_Programming) |
+| [Parallel Programming in R](https://github.com/Katsuvest/Programming/tree/master/Parallel_Programming_in_R)                                                         |  29-Dec-2023 |       [Programming](https://github.com/Katsuvest/Programming/tree/master/)       |  [R_Programming](https://github.com/Katsuvest/R_Programming) |
 | [Python Data Science Toolbox(Part 1)](https://github.com/Katsuvest/Programming/tree/master/Python_Data_Science_Toolbox(Part_1))                                     |  10-May-2023 |       [Programming](https://github.com/Katsuvest/Programming/tree/master/)       |         [Python](https://github.com/Katsuvest/Python)        |
 | [Python Data Science Toolbox(Part 2)](https://github.com/Katsuvest/Programming/tree/master/Python_Data_Science_Toolbox(Part_2))                                     |  11-May-2023 |       [Programming](https://github.com/Katsuvest/Programming/tree/master/)       |         [Python](https://github.com/Katsuvest/Python)        |
 | [Regular Expressions in Python](https://github.com/Katsuvest/Data-Manipulation/tree/master/Regular_Expressions_in_Python)                                           |  30-Jun-2023 | [Data-Manipulation](https://github.com/Katsuvest/Data-Manipulation/tree/master/) |         [Python](https://github.com/Katsuvest/Python)        |
