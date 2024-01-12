@@ -1,6 +1,6 @@
 # Qualifications as a Developer
 
-In my journey as a Developer specializing in **[Python](https://github.com/Katsuvest/Python)**, **[R_Programming](https://github.com/Katsuvest/R_Programming)**, and **[SQL](https://github.com/Katsuvest/SQL)** Server, I've cultivated a versatile skill set through targeted courses and hands-on projects. Here's a concise overview:
+In my journey as a Developer specializing in **[Python](https://github.com/Katsuvest/Python)**, **[R_Programming](https://github.com/Katsuvest/R_Programming)**, and **[SQL Server](https://github.com/Katsuvest/SQL)**, I've cultivated a versatile skill set through targeted courses and hands-on projects. Here's a concise overview:
 
 **[SQL Server Developer](https://github.com/Katsuvest/Developer/blob/master/SQL_Server_Developer.pdf):** (completed on 17-12-2023)
 * Advanced trigger development.
@@ -18,7 +18,7 @@ In my journey as a Developer specializing in **[Python](https://github.com/Katsu
 * Robust and defensive R programming.
 * Building and optimizing R packages.
   
-These experiences have equipped me with a versatile skill set, making me adept at tackling complex challenges in **[Python](https://github.com/Katsuvest/Python)**, **[R_Programming](https://github.com/Katsuvest/R_Programming)**, and **[SQL](https://github.com/Katsuvest/SQL)** `Server` development. I am well-prepared to contribute effectively to diverse projects and initiatives.  Below is the listing of completed tracks and courses
+These experiences have equipped me with a versatile skill set, making me adept at tackling complex challenges in **[Python](https://github.com/Katsuvest/Python)**, **[R_Programming](https://github.com/Katsuvest/R_Programming)**, and **[SQL Server](https://github.com/Katsuvest/SQL)** development. I am well-prepared to contribute effectively to diverse projects and initiatives.  Below is the listing of completed tracks and courses
 
 |                                                                               Course                                                                                |  Completed   |                                      Topic                                       |                          Technology                          |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------: | :------------------------------------------------------------------------------: | :----------------------------------------------------------: |
